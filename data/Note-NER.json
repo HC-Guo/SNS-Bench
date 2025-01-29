@@ -1,0 +1,2587 @@
+[
+    {
+        "question": "Please identify all 'Applicable Object/Group' entities",
+        "content": "HelloStyle Velvet Mist Lightweight Lipstick Sweet Fairy Color Matte Lip Gloss Versatile Nude Color for Students",
+        "answer": "Students"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Eiio Face Cream Hydrating Moisturizing High Moisture Non-Greasy Refreshing for Autumn Skin Oily Skin + Eiio Hand Cream",
+        "answer": "Refreshing, Non-Greasy"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "XZM MDBmdb Self-Foaming Pore-Tightening Oil-Control Blackhead Mask Centella Asiatica Bubble Mask Blackhead",
+        "answer": "Mask"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "(2-piece Lipstick + Lipstick) GOGO TALES Ge Ge Dance Sweetheart Moisturizing Lipstick Color Lip Balm Autumn/Winter Women Color",
+        "answer": "Ge Ge Dance, GOGO TALES"
+    },
+    {
+        "question": "Please identify all 'Color Code (Beauty/Personal Care Specific)' entities",
+        "content": "akf Eyeshadow Palette 03 Seven-Color Comprehensive Palette Matte Contour Highlight Blush All-in-One Earth Tones Women Official Authentic",
+        "answer": "03"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "Authentic Xiangsi 1818 Thread Eyebrow Pencil for Women, Waterproof and Sweatproof, Long-lasting without Fading, Peel-off for Beginners in Tattooing",
+        "answer": "Xiangsi"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "MINSHZ Mingxi Zhi Eyeliner Pen Ultra-Fine Female Non-Blurring Long-Lasting Waterproof and Sweatproof Beginner Brown White Long-Lasting",
+        "answer": "Female"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Gucci2022 Rose Essential Oil Matte Lip Glaze Long-lasting Color Lock 114/208/203/505/521",
+        "answer": "Long-lasting Color Lock"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Korean Lipstick Liquid Matte Velvet Dirty Orange 220 Pumpkin Color Whitening Lipstick 909 116",
+        "answer": "Pumpkin Color, Dirty Orange"
+    },
+    {
+        "question": "Please identify all 'style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Guyu/Shimu Mi Original 2023 Summer New Linen Travel Artistic Versatile White-Enhancing Medium-Length Top for Women",
+        "answer": "Medium-Length"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Ziluolai Hepburn Little Black Dress~ Bubble Sleeve French Square Neck Dress Women's Waist Slimming Elegant Little Dress 052",
+        "answer": "Dress, Little Dress, Little Black Dress"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Summer Sexy 2023 New Large Size Loose Plus Size Sister Cotton Silk Spring and Autumn Homewear Three-Piece Set",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "W2342   Summer Thin and Loose Casual Wide Leg Suit Shorts Women Fashion High Waist Solid Color High Waist Shorts",
+        "answer": "Shorts, Suit Shorts"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "ARTE PURA White Flower Crystal Decorative Necklace Dress Slimming Waist Women's Sleeveless Mini Dress 2023 Summer",
+        "answer": "White"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Plus Size Women's Summer Fat mm Covering Fat Slimming Light Ice Silk Knitwear Plump Panda Print Regular Shoulder Short Sleeve POLO Shirt",
+        "answer": "POLO Shirt, Knitwear"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "American Vintage 100% Cotton Gray T-Shirt 2023 Summer Oversized Versatile Couple Short Sleeve INS Style",
+        "answer": "Short Sleeve, T-Shirt"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Wide-Leg Pants Women High-Waisted Draping Spring Summer Thin Casual Cotton Linen Pants Puffed Waist Casual Women's Floor-Length Pants",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "CMORE23 Summer Beige/Gray Skin-friendly Long Velvet Cotton Loose Casual Embroidered Contrast Color Crew Neck Short Sleeve T-Shirt Women",
+        "answer": "23"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "[Xiong Xiaoke] 2023 Spring New Genuine Leather Pearl Single Strap Low Heel Fairy Shoes Round Toe Versatile Sandals Women",
+        "answer": "Fairy"
+    },
+    {
+        "question": "Identify all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "[UVRCOS Official Store] Fall/Winter American Retro Design Black Lapel Motorcycle Jacket PU Leather Coat",
+        "answer": "Lapel"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Qingdao Foreign Trade Counter High-End Elegant Fine Ramie White Dress Women 2023 Spring Summer Loose A-Line Dress",
+        "answer": "White"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "[Sunlight Island] Dress 2023 Summer French Waist Cinch Elegant Slimming Wrinkle V-neck Gentle Long Lantern",
+        "answer": "Slimming"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Grey Women's Work Pants Summer Thin 2023 New High-Waisted Wide-Leg Casual American Retro Petite Sports Pants",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "American Style Grey Work Pants Women Summer Thin 2023 New High-Waisted Petite Wide Leg Pants Casual Quick-Dry Sports Pants",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "100% Cotton American Retro INS Hong Kong Style Short-Sleeve T-Shirt for Men and Women 2023 Summer National Trend Design Sense Niche Top for Women",
+        "answer": "100% Cotton"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Black Leather Shoes Summer 2023 New British Style Retro Versatile Low-Top Chunky High Heel Thick Sole Mary Jane Shoes",
+        "answer": "Mary Jane Shoes, Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'Category' entities",
+        "content": "2023 Summer New White Hot Girl Blouse Women's Elegant Tie Waist Chiffon Shirt Design Sense Niche Top",
+        "answer": "Blouse, Shirt"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Summer Collection Green Floral High-Waisted Women's Skirt Elastic Long Skirt Slimming Forest Style Versatile A-Line Skirt",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Spring/Summer New Design Sense Niche Irregular Short Sleeve T-Shirt Women Loose Casual Petite Short Top",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "300 lbs Large Size Men's Clothing for Fat Guys Summer New Style Loose and Slimming Korean Version Casual Short Sleeve T-shirt Men Plus Size Trendy",
+        "answer": "Loose, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Mesh Surface White Sneakers Women 2023 Summer New Style Versatile Fashion Breathable Cherry Blossom Pink Women's Shoes Casual, Casual Sports Sneakers",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "New Dreamy Romantic Dress Women 2023 Summer New Cross Strap Waist Cinch Slimming Gentle Long",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Couple's Summer Outfit 2023 Short-Sleeve T-Shirt Women Loose Lazy Style American Retro Trendy Harajuku Style Men's Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Tencel Women's Thin Jeans 2023 New Summer Loose Ice Silk Wide Leg Pants Casual Draping Pants #3038",
+        "answer": "Jeans, Wide Leg Pants"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "1970s Thick-soled Canvas Shoes Women Summer Height Increasing White Shoes 2023 New Chic Hong Kong Style Women's Shoes Ins Trendy",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 Linen Cotton Dress Women Summer Green Retro Original Women's Clothing Middle-Aged Mom Elegant Waist Slimming Ethnic Style Trend",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Contrast Color Polo Collar Raglan Short Sleeve T-Shirt Women Summer 2023 New Design Sense Regular Shoulder Half Sleeve Top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Short Sleeve T-Shirt 2023 Summer White Square Neck Fishbone Stitch Curved Hem Korean Style Versatile Fashion Top Baselayer",
+        "answer": "T-Shirt, Baselayer"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "R Letter Baseball Cap BQ012 Spring/Summer Face-Slimming Wide Brim Black Duckbill Cap for Men Large Head Circumference Small Size Cap for Women",
+        "answer": "Black"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Bow Tie Strap Dress Women 2023 New Style Plus Size Curvy mm Square Neck Short Sleeve Tummy Cover Slimming Long Skirt",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Large Size Women's Shoes 2022 Summer New Style Chunky Heel Sandals Women 41-43 Crystal Heel Open Toe Buckle Small Size 3233",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French Style Women's Midi Dress 2023 Summer New Small Figure Elegant Slimming Black Spliced Dress",
+        "answer": "French, Elegant"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "300 lbs Plus Size Wind Sleepwear Two-Piece Set 2023 Spring/Autumn New Style Slimming Loose Long Sleeve Women's Slip Dress ins",
+        "answer": "Sleepwear, Slip Dress"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "925 Sterling Silver Premium Beehive Earrings Women Light Luxury Niche Design Hoop Ear Studs 2021 New Spring Summer",
+        "answer": "925 Sterling Silver"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Summer Korean Style 2023 New Pure Desire Wind High Waist Slimming Belted Open Back Sexy Unique Halter Neck Dress Women Trendy",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Japanese Style Retro Rainbow Stripe Sweater Women 2022 New Style Halter Vest Lazy Style Retro Autumn/Winter Two-Piece Set",
+        "answer": "Vest, Sweater"
+    },
+    {
+        "question": "Please identify all 'Category' entities",
+        "content": "Girls' Dress 2023 Autumn Collection Korean Style Solid Color Slip Dress Children's Casual Peter Pan Collar Blouse Two-Piece Set",
+        "answer": "Blouse, Dress, Girls' Dress"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "College Student Single Shoulder Canvas Bag Large Bag Women Large Capacity 2022 New Summer Commuting Tote Bag 7 Days",
+        "answer": "Tote Bag, Bag, Large Bag"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Anne2023 New Style Dress Round Neck Short Sleeve Women Summer Design Asymmetric Splicing Bead Chain Fringe Plaid Open",
+        "answer": "Dress, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Retro High-End Cotton Linen Lantern Pants Women's Literary Temperament Double Layer Hemp Pants Slimming Loose Large Size Casual Pants",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Fairy Style Sandals Women 2023 New Summer Outdoor Chunky Heel Peep Toe Genuine Leather French Pointed Toe Influencer High Heels",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "CS002 Japanese Style Shirt Short Sleeve Men's Trendy Brand Five-Fourth Sleeve INS Hong Kong Style Blouse Summer Casual Loose Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Women's Sunglasses Sunscreen 2023 New Men's Summer UV Protection Driving Yellow Lan Glasses",
+        "answer": "Sunscreen, UV Protection"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Retro High-Waisted Denim Shorts Women Summer 2023 New Hot Girl Design A-Line Wide Leg Hot Pants High Street Ins Trend",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Zhao Lusi's Same Style Earrings Early Spring 2023 New Style Stud Earrings for Women Niche Design Sense High-End Tea Series Earrings Retro",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Plus Size Women's Gentle Style French Floral Print Dress Slimming Waist Long Skirt with Lace Hem and Slit J133",
+        "answer": "Dress, Long Skirt"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "Mo Wei Home Korean order highlighting long legs Summer classic frayed high-waisted A-line denim shorts for women 23",
+        "answer": "Mo Wei Home"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 New Summer Women's Nightgown Ice Silk Open Cardigan Short Sleeve Sexy Casual Outerwear Home Clothing Pajamas",
+        "answer": "Home Clothing, Nightgown, Pajamas, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "100% Mulberry Silk Camisole Women's Inner Suit Silk Blouse Sleeveless White Base Shirt Spring Summer Autumn",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Thick-soled student niche skateboard shoes ins versatile black shoes for women 2023 summer new black bat shoes for women",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "French Retro Irregular Knitted Halter Vest Women's Outerwear 2023 Summer New Arrival High-End Temperament Sleeveless Top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "6681-60B Xiuhe Wedding Dress Bride Crystal Sequins Adult Ceremony Pearl Chain Bow Women High Heels Wedding Shoes",
+        "answer": "Bride"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Silver Round Simple Chain Pure Silver S925 Snake Bone Chain Thin Necklace Women High-End Neck Chain Sweet Cool Style Unisex Trendy Men",
+        "answer": "Snake Bone Chain, Neck Chain, Thin Necklace, Simple Chain"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Pure desire, sexy and sweet-spicy red dress for women, 2023 summer new style, sweet and slimming, elegant mid-length skirt trend",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "OctPpan in a daze~ Slim fit V-neck thin short sleeve t-shirt women summer cardigan casual waist-cinching knit top",
+        "answer": "t-shirt, knit top"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Z3330 Fashion Versatile 2023 Summer New Chinese Style National Wind Buttoned Loose High-Waisted Black Draping Wide-Leg Pants for Women",
+        "answer": "Wide-Leg Pants"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Shoes that make feet look smaller, Women's New Style 2023 Spring, Versatile Women's Shoes, Thick-soled Elevated Dad Shoes 22185",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Chanel Style Sandals Women 2023 Summer New Style Internet Celebrity Super Popular Thick Sole Height Increasing Shoes Summer Sports Fashion Women's Shoes",
+        "answer": "Sandals, Shoes, Shoes"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "American Retro Oversized Top 2023 Summer Short Sleeve White and Slimming Outfit for Women and Couples",
+        "answer": "American, Retro"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Summer literary retro 100-count ramie T-shirt for women with V-neck and short sleeves, loose and casual embroidered blouse",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Striped Short-Sleeve Shirt Women 2023 Summer Commuting Elegant Blouse",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "K1299 Mosquito Coil Plate Earrings French Elegant Knot No Piercing Zircon Pearl Earrings temperament Hong Kong style women's accessories",
+        "answer": "Mosquito Coil Plate"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Summer Thin Denim Short Sleeve Shirt Men Fashion Spliced Design Polo Collar Shirt Design Sense EC907",
+        "answer": "Design Sense"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Green Tassel Modified Cheongsam Dress Women Summer New Chinese Style 2023 New Republic Style Elegant High-End Women's Clothing",
+        "answer": "Green"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 Summer New Style American Retro Short-Sleeve Loose Pitaya Color T-Shirt for Both Men and Women",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "7AM10PM Versatile Cardigan Layered Long Sleeve Coat Shirt Women 2022 Autumn/Winter New Base Plaid Blouse Women",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Fine Wool Sweater Elegant Fake Two-Piece Short Sleeve Base Top V-Shaped Contrast Color Turn-Down Collar Pullover Ice Silk Women Summer",
+        "answer": "Pullover, V-Shaped, Fake Two-Piece, Turn-Down Collar, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'time' entities.",
+        "content": "Niche original square-toe canvas shoes for women 2023 summer new style thick-soled Japanese-style casual shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Model/Series' entities",
+        "content": "AJ Nike out-of-stock autumn new aj men's shoes low-top Air Force One sneakers versatile sports shoes Korean style casual shoes",
+        "answer": "Air Force One"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Retro Ink Floral Cheongsam Dress 2023 Summer Waist-Cinching French Style Slimming New Chinese Style Sleeveless Dress",
+        "answer": "Dress"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Fragrance Series~Lace Trimmed Floral Doll Blouse Women 2023 Summer New Sweet Versatile Loose Short Sleeve V-Neck Casual Shirt",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "SRK-S2XT0323 French-style Short Sleeve Dress Elegant Suit Collar Waist-Cinching Slimming Chiffon Floral Skirt Women",
+        "answer": "Slimming"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "FDR National Trend American Street Fleece Heat Transfer Print Short Sleeve T-Shirt Unisex Summer Couple Loose Top T-Shirt",
+        "answer": "T-Shirt, T-Shirt"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Summer New Solid Color Casual Shorts Women Loose Sporty Style Five-Piece Pants Versatile Slimming Straight Leg Mid-Length Pants Trendy",
+        "answer": "Loose, Straight Leg"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "YJ-21 2023 New Style Korean High-Heel Sandals for Women Simple and Stylish Slides Luxury Flip-Flops",
+        "answer": "Flip-Flops, Sandals, Slides"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Sandals 2023 Spring/Summer New Style Versatile Elegant Style Chunky Heel Low Heel Hollow Out Genuine Leather Sandals Square Toe Women's Shoes",
+        "answer": "Elegant Style"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer New Women's French Aristocratic Style Chanel-Inspired Slimming Lace A-Line Mini Skirt Two-Piece Set",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "7.SIETE Seven Family Korean Style Round Neck Knitted Pumpkin Orange Autumn Solid Color Elegant Petite Casual Cardigan",
+        "answer": "Autumn"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "EhK Original Cross-Knit Sexy 3-Color Mermaid Sequin Thin Knitted Strap Vest Women's Inner Top Women Summer",
+        "answer": "Sexy"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Xiangyin Women's Pure Silver Bracelet S999 Solid Silver Mobius Blossom Push-pull Ring Gift for Girlfriend",
+        "answer": "Blossom, Mobius, Push-pull"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Ice Silk Sun Protection Shirt Women Summer 2023 UV Protection New Loose Breathable Cycling Coverall Full Body Sun Protection Clothing",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Summer New Fresh Pure Desire Pink Four-Button Ribbed Short-Sleeve T-Shirt Women bm Pure Cotton Slim Fit Zelly Top",
+        "answer": "T-Shirt"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Summer Men's Shoes 2023 Casual Trendy Shoes Niche Luxury Feel Height-Increasing Breathable Casual Sports Shoes Men's Student Sneakers",
+        "answer": "Height-Increasing"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Original Little Chanel Style Old Beijing Cloth Shoes Women's Flat Hanfu Shoes Ancient Style Elegant Ethnic Style Embroidered Fisherman Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Korean KC2023 Early Autumn Hong Kong Style Retro Loose Patch Long Sleeve Shirt Jacket Women Thin Denim Top Trendy",
+        "answer": "Early Autumn"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Ice Silk Wide Leg Pants Women Summer Thin Sun Protection Pants 2023 New High Waist Draping Large Size Casual Loose Long Pants",
+        "answer": "Wide Leg Pants, Long Pants, Sun Protection Pants"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "High-waisted gray straight-leg jeans for women, spring collection 2023 new style, slimming misaligned cigarette pants, ankle-length for petite figures",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "British Minimalist Black Thick-Soled Martin Boots Women 2023 New Summer Chunky Heel Knight Boots British Style Explosion-ABLS",
+        "answer": "Knight Boots, Martin Boots"
+    },
+    {
+        "question": "Please identify all 'scene' entities",
+        "content": "2023 Summer New Large Size Women's Clothing Fat mm Simple Casual Commuting Slimming Elastic Waist Slit Pants QI0831",
+        "answer": "Commuting"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "2023 Summer New Korean Style Senior Sister Wind Straight Tube Loose Lazy Starry Sky Pattern Petite Wide Leg Slimming Jeans",
+        "answer": "Petite"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Cotton American Retro Short-Sleeve T-Shirt Men Summer 2023 New Print Loose Couple Half-Sleeve T-Shirt Top",
+        "answer": "T-Shirt, T-Shirt"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Red Sleeve's Blue/Original by Ten Wood 2023 Summer New Linen Art Retro Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French Blue Halter Neck Dress Women Summer 2023 New Hollow Out Sun Protection Shirt Slim Long Dress Two-Piece Set",
+        "answer": "French"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "SUNNY Ice Silk Quick-Dry Cargo Pants Women Summer Thin New High-Waisted Slimming Sun Protection Casual Sport Harem Pants",
+        "answer": "Thin, High-Waisted"
+    },
+    {
+        "question": "Pleaserect all 'time' entities",
+        "content": "Cotton linen wide-leg pants women 2023 summer new literary large size elastic waist slim vertical sense straight tube pants casual long pants",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Rome Sandals Women's Summer 2023 New Style Pregnant Women Comfortable Large Size Wide Thick Sole Beach Sports Sandals",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "High Comfort Cotton | V-neck Women's Spring/Summer Short Sleeve White Professional Workwear Long Sleeve 2023 New Style Manager Formal",
+        "answer": "Long Sleeve, V-neck"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer New Large Size Women's Fashion Plus Size mm Fresh Oil Painting Print Stylish Age-Reducing Pure Cotton Shoulder T-Shirt QI2472",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "CATCHWORD American Retro Vest Coarse Knit Base Layer Casual Sweatshirt Solid Color Men's Sleeveless BXB21999",
+        "answer": "Sweatshirt, Vest"
+    },
+    {
+        "question": "Please identify all 'scene' entities",
+        "content": "2072 Blue Modified Cheongsam Young Style Girlish Temperament Slimming Daily Retro Chinese Style Dress Summer New Arrival",
+        "answer": "Daily"
+    },
+    {
+        "question": "Please identify all 'IP' entities",
+        "content": "Korean blogger Fever's same style hair clip for bangs and flyaways, retro amber color edge clip, resin women's ins trend",
+        "answer": "Fever"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "【A URORA】2023 Spring/Summer New Casual Loose Lazy Pink Shirt Top Men's and Women's Long Sleeve Shirt",
+        "answer": "Pink"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "4 Pairs of Summer Thin Socks for Women Hollow Ice Silk Korean Style INS Retro Trend Black Series Thin Cotton Mid-Calf Socks",
+        "answer": "Korean Style, Retro, INS"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Junior High School Girl Dress, New Style 2023 Summer Outfit, High School Student Princess Long Dress, Light Blue Knee-Length Dress for Older Children",
+        "answer": "Dress, Long Dress"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer Genuine Leather Half-Covered Toe Solid Color Round Toe Low Heel Soft Sole Elegant Daily Casual Style Temperament Sandals",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Pink polo collar T-shirt for women 2023 spring and summer design sense niche loose short sleeve regular shoulder pure cotton top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French vintage tea break Audrey Hepburn style waist-narrowing slimming long dress summer 2023 young mature style black floral dress",
+        "answer": "Audrey Hepburn style, vintage, French, young mature style"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "MIO · Ice Silk Facekini Sunscreen Face Mask for Women Full Face Coverage Summer Driving UV Protection Sunshade Mask",
+        "answer": "Sunscreen, Full Face Coverage, Sunshade, UV Protection"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "145 Petite XS Size Draping Wide-Leg Jeans for Women Loose Spring/Autumn New High-Waisted Straight Pants Retro Long Pants",
+        "answer": "Loose, Wide-Leg, High-Waisted"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "AM New Summer Style Miu Wind Sexy V-neck Halter Shorts Pajamas Women's Elegant Pure Desire Milk Fuzzy Pajama Gift Box",
+        "answer": "Sexy, Miu Wind, Pure Desire, Elegant"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Suitable for Apple Watch iWatch 7/8/6 5 4 SE Design-inspired T-shaped hollow slim waist strap genuine leather watch band",
+        "answer": "Design-inspired"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 New Spring and Autumn Long Sleeve Shirt Men Simple Japanese Style Workwear Pure Cotton Men's Trendy Casual Outer Shirt",
+        "answer": "Japanese Style, Simple, Casual"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Boutique Lady's Handmade Luxury Women's Shoes SIFEIRO23 Autumn New Genuine Leather Square Toe Low-Top Square Buckle Cap Women's Shoes",
+        "answer": "23"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 Spring/Autumn Sheepskin Flipped Leather Suede Square Toe British Loafers Chunky Heel Commuting Small Leather Shoes 1059",
+        "answer": "Loafers, Loafers, Small Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "3 Pairs Set Spring Summer Korean Ins Style Pure Cotton Combed Cotton Mid-Calf Socks Colorful Dots Student Fresh Women's Socks",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'scene' entities",
+        "content": "Korean Fashion Versatile Soft Leather Commuter Bag Casual Women's Bag 2023 Summer Simple Shoulder Crossbody Women's Bag",
+        "answer": "Commuter"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Heart-shaped Stud Earrings with a niche design sense, high-end Korean style earrings, 2022 new trend, cool and indifferent style, elegant women's winter accessories",
+        "answer": "Stud Earrings, Earrings"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Men's Elevator Leather Shoes Classic Three-Toe Casual Formal Commuting Wedding Shoes Men's Leather Shoes Versatile 52111",
+        "answer": "Wedding Shoes, Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "GIRDEAR Amass Authentic 2023 Summer New French Style Waist-Hugging Audrey Hepburn Style Sleeveless Dress 5500423",
+        "answer": "Dress"
+    },
+    {
+        "question": "Please identify all instances of the entity 'season'",
+        "content": "100% Cotton American Retro Short-Sleeve T-Shirt for Men Summer 2023 New Arrival Loose Fit Printed Casual Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "OctPpan Salt-Style Doll~Elegant Commuting Short-Sleeve Striped Shirt Women Summer Loose Casual Blouse Slimming Top",
+        "answer": "Blouse, Shirt"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Bags Autumn/Winter 2022 New Nylon Bag Single Shoulder Commuter Bag Large Capacity Tote Bag Casual Versatile Handbag",
+        "answer": "Tote Bag, Bags, Bag, Handbag"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2022 American Workwear Jeans Men's Autumn Trendy Brand Retro Cuffed Pants High Street Loose Plus Size Casual Pants",
+        "answer": "Loose, Workwear"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2020 Winter Cotton Shoes Women's New Style Winter Plus Velvet Double Cotton Autumn and Winter Martin Boots British Style Autumn Ankle Boots Make Feet Look Smaller",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Mu Xi Rich Bubble Sleeve Blouse Petite Gentle First Love Charm Hollow Lace Crochet Loose White Shirt",
+        "answer": "White"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Men's Autumn/Winter Jeans 2022 New Style Elastic Waist Men's Winter Casual Slim Fit Long Pants Plush and Thick",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Jerfuni Korean-style Sweet Bow Stripe Regular Shoulder Short Sleeve T-Shirt Women Short Slim Age-reducing Short Top Summer",
+        "answer": "Sweet, Korean-style"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Huizhi Xin 6073 Ice Silk Seamless Bustier Women Ultra-thin Bunny Ears Crystal Cup Underwear Backless Sexy Camisole",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Annie not popular French pure white long dress women's waist 2023 summer new slightly fat plus size square neck dress",
+        "answer": "French"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "MILLAIDI Elegant Pure Desire Ruffled Strap Dress French Swing Neck Oil Painting Blurred Dress Women 2023 Spring Summer",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 New Style Preppy Outfit Women's Long Sleeve Blouse Top Autumn/Winter Straps Dress American Style Dress Two-Piece Set",
+        "answer": "Winter, Autumn"
+    },
+    {
+        "question": "Please identify all 'Style (specific to clothing, shoes, and bags)' entities",
+        "content": "Fake Two-Piece Polo Collar Denim Dress Women Spring 2023 New Style Waist-Cinching Slimming French Waist-Cinching Long Sleeve Dress",
+        "answer": "Long Sleeve, Waist-Cinching, Polo Collar, Fake Two-Piece"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Grey High-Waisted Pleated Skirt Women Summer 20 Grey High-Waisted Pleated Skirt Women Summer 2023 New Style Petite",
+        "answer": "Pleated Skirt"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Women's Sports Sandals Thick Sole 2022 Summer New Style Wedge Soft Bottom Platform Shoes Korean Style Casual Versatile Non-Slip Beach Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Early Spring Thin Striped Knit Sweater Women 2023 New Design Sense Fake Two-Piece Shoulder-Baring Sexy Pure Desire Top",
+        "answer": "Early Spring"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Spring New Arrival Wrinkle Slimming Pencil Skirt Pure Desire Temperament Dress Unique Inner Wear High-End",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Women's Summer Thin Casual Denim Shorts 2023 New Style Petite High Waist Slimming Versatile A-Line Wide Leg Hot Pants",
+        "answer": "Denim"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Short-Sleeve Pajamas Summer 2023 New Thin Cotton Sweet Loose Casual Capri Home Clothing Set",
+        "answer": "Pajamas, Home Clothing"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Floral Square Neck Dress Women Summer 2023 New Sweet Waist Slimming Medium Length Ultra Fairy First Love Series Skirt",
+        "answer": "Dress, Skirt"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Cotton 2024 Summer New Product Korean Style College Wind Grey Polo Collar T-Shirt Student Mid-Length Loose Women's T-Shirt Dress",
+        "answer": "Cotton"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Klein Blue Women's Shirt Jacket Advanced Design Sense Niche 2022 New Spring Summer Autumn Loose Long Sleeve Shirt Trendy",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "Retro Strap Denim Dress Women's Spring 2023 New A-Line Fringe High-End Feel Mid-Length Skirt",
+        "answer": "Denim"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Early Spring Black Dress Two-Piece Set Women Spring Elegant Casual Waistcinching Slip Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Autumn New Product Retro Glazed White S925 Pure Silver Earrings Elegant French INS Niche Antique Feel Earring Hoops for Women",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 Summer New Pure Desire Style Slim Gentle Mesh Halter Strap Dress Women Trendy Sexy Pencil Skirt Women",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Shiling Bags 2023 New Trendy Niche Crossbody Bag Women's Bag Advanced Design Spring Summer Hebei Baigou Dumpling Bag",
+        "answer": "Advanced"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Cailin Kelin Japanese Style Versatile Sweet Knitted Bucket Fisherman Hat Women Autumn Winter Warm Flat Top Wool Scarf",
+        "answer": "Sweet, Japanese Style"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Sexy Hot Girl Short Super Popular Crop Camisole Women's Inner Wear Spring 2023 White Unique Base Layer Outerwear Top",
+        "answer": "Sexy, Hot Girl"
+    },
+    {
+        "question": "Please find all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Straight Leg High-Waisted Women's Jeans 2023 New Spring and Autumn Slimming cigarette pants Retro Korean Style Stretchy Nine-Tenths Pants",
+        "answer": "Straight Leg, High-Waisted"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Black denim shorts high-waisted hot girl 2023 summer new retro high-waisted tight slimming hip-hugging hot pants trendy",
+        "answer": "Black"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Plus Size Hip-Covering Skirt Slimming A-Line Half Skirt Women Spring/Autumn New Style High-Waisted Contrast Stitch A-Line Skirt Plus Size Women Pencil Mid Skirt",
+        "answer": "Contrast Stitch, A-Line, High-Waisted, Pencil"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Roman Sandals Women 2023 Summer New Style Toe Loop Versatile Thick Sole Women's Shoes Popular Sports Casual Beach Shoes",
+        "answer": "Thick Sole, Toe Loop, Roman"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "NuoMu 100% Cotton Peter Pan Collar T-Shirt Women Summer New Loose Slimming Bubble Sleeve Age-Reducing Short Sleeve Striped",
+        "answer": "100% Cotton"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Fashion Bags 2022 Summer Trendy New Style Korean Version Solid Color Simple Women's Small Bag Crossbody Single Shoulder Handbag Underarm Bag",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Yan Shuang Gentle V-neck Floral Dress Women 2023 Spring Summer New Korean Style Long Sleeve Waist Cinched Midi Dress 80718",
+        "answer": "Korean Style, Gentle"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 New Summer Style Apricot V-neck Lace Trim Dress Tea Break French Boutique Elegant Slimming Long Dress for Women",
+        "answer": "Lace Trim, Tea Break, V-neck"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Navy Blue American Work Pants Women Spring/Autumn 2023 New Straight Leg Loose High Waist Slimming Wide Leg Casual Pants",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "s925 Pure Silver Tassel Letter x Ear Thread Slimming Face 2023 New Trendy Summer Earrings Long Eardrop Elegance",
+        "answer": "Eardrop, Ear Thread, Earrings"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Canvas Bag Women's Handbag Large Capacity Bag 2023 New Summer Fresh Smile Shopping Bag Women's Single Shoulder Tote Bag",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all the 'color' entities.",
+        "content": "Army green jacket women autumn winter casual windbreaker 2022 new Korean version loose",
+        "answer": "Army green"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Summer Flowers Blackcurrant Purple Dress Short V-neck Pencil Dress French Style 2023 Spring/Summer Recommendation",
+        "answer": "French, Style"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Summer 2022 new women's fashion Korean style chic white short sleeve t-shirt top",
+        "answer": "Korean style"
+    },
+    {
+        "question": "Please identify all 'target user/group' entities",
+        "content": "Split Straight Leg Pants Women Spring Summer New Style Plus Size MM Large Black Wide Leg Pants INS Trendy Versatile Loose Casual Pants",
+        "answer": "Plus Size MM"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities\nentities",
+        "content": "Capacity Bag Canvas Cloth Bag College Women\nWomen's Bag Shoulder Commute Tote Canvas Canvas Bag Large Capacity Cloth Bag 2023 New",
+        "answer": "Canvas"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Black French one-shoulder short sleeve T-shirt for women 2023 summer chic niche slim fit short off-shoulder knit top",
+        "answer": "Black"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "Chen Mu Jia Women's Bag 2023 New Style British American Retro Buckle Backpack Student Crossbody Single Shoulder Commuter Bag",
+        "answer": "Chen Mu Jia"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Kelly Bag Red Wedding Bag Women 2022 New Style Wedding Bag Bride Bag Luxury Large Capacity Crossbody Handbag",
+        "answer": "Bag, Kelly Bag, Handbag, Bag, Wedding Bag"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "Zhou Yuchen Sexy and pure desire style satin fishbone backless vest women summer, same style as Miaou. This is a short top for spicy girls, featuring Miaou's same style",
+        "answer": "Miaou, Zhou Yuchen"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Plus-size Women's 2023 Spring/Summer New Arrival Patchwork Maxi Dress for Busty Ladies, Slimming Waist Design",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 High Heel Retro Fashion Casual Square Toe Sandals New Summer European and American Style Chunky Heel Buckle Sandals Women",
+        "answer": "European and American Style, Retro, Casual"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Women's Chunky Heel Sandals 2023 New Spring/Summer High Heel Single Strap Slides French Fairy Style Large Size Women's Shoes",
+        "answer": "Chunky Heel, Single Strap, High Heel"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Mona's Same Style Large Pearl Earrings for Women Summer Classic French Retro Cotton Earrings New Jewelry for Women 2022",
+        "answer": "Pearl"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Brooch High-End Women's Retro Palace Luxurious Swan Crystal Tassel Lapel Pin 2022 Style Suit Cheongsam Chest Flower Pin",
+        "answer": "Lapel Pin, Chest Flower Pin, Brooch, Suit, Cheongsam"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Thick-soled low-cut bow Mary Jane flats for women 2023 summer new fashion to match skirts jk Japanese-style leather shoes",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Short-sleeved T-shirt Women's Lace 2023 Summer New Shirt Romantic temperament Small Shirt Fashion V-neck Top Blue Hollow Out",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Hooded Sweatshirt Women Early Autumn 2021 Korean Style Loose Thin Pullover Stand Collar Avocado Green Top Coat Autumn Wear",
+        "answer": "Early Autumn, Autumn"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Solid Color Slimming V-neck Regular Shoulder Basic Shirt Spring/Summer 2023 New Lazy Style Wrinkled Short Sleeve T-shirt Top Women",
+        "answer": "T-shirt, Basic Shirt"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "French Style Chunky Heel Crystal Rhinestone Single Strap Open Toe Flat Sandals Women 2023 Summer New arrivals Versatile Fairy Style Slides",
+        "answer": "Open Toe, Flat, Chunky Heel, Crystal Rhinestone, Single Strap"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "2022 Autumn/Winter New Fashion Down Cotton Vest Women's Outerwear Shiny Surface Wash-Free Loose Vest Jacket",
+        "answer": "Down Cotton"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 Spring/Summer Korean Style Tie Waist Short Crop Top T-shirt Chic Slimming Cute Bow Short Sleeve Knit Top Women",
+        "answer": "T-shirt, Knit Top"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "French-style polo collar knitted sweater for women 2023 summer black V-neck slim-fit short sleeve T-shirt ice silk thin top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Harajuku Style Baseball Jacket Women Spring Autumn 2021 New Korean Version Vintage Retro American Loose Winter Coat",
+        "answer": "Baseball Jacket"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Bow Knot Head Sandals Women Summer 2023 New Style Silk Fairy Style French Pointed Toe Flat Low Heel Backless Single Shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2021 Autumn New Style Women's Casual Loose Hooded Jacket Short Coat Women's Sweatshirt Cardigan",
+        "answer": "2021"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "【Youshilei】Thick-soled Half Slippers White Shoes Women 2023 Summer New Style Height Increase Versatile Thick-soled Casual Sneakers",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "High Heel Platform Mesh Fish Mouth Women's Sandals 2023 Summer Korean Version Casual Matchable Platform Thick Sole Water-Resistant Platform Open Toe",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "French Style 2023 Genuine Leather Flat Small Leather Shoes Spring/Autumn New British Style Retro Square Toe Chunky Heel Metal Buckle Single Shoes Women",
+        "answer": "Single Shoes, Small Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Black D Letter Pearl Stud Earrings for Women ins Niche Design Sense Cold Style Earrings Light Luxury Unique Earrings Summer Trend",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "PLAYBOY men's shoes versatile casual sneakers fashion trend air cushion shoes thick sole height increasing",
+        "answer": "PLAYBOY"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Pointed Toe Elegant Black High Heel Single Shoes Women's Shoes 2023 New Summer French Niche Thin Heel Patent Leather Women's Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Women's Summer Thin Blazer 2023 New Style Casual Elegant Petite Short Sleeve White Short Suit Jacket",
+        "answer": "Elegant, Casual"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Girls' Cotton Dress Summer 2023 New Style Children's Stylish Vest Dress Summer Girls Internet Celebrity Princess Dress",
+        "answer": "Dress, Princess Dress, Dress"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Chinese Style 2022 Women's Red Down Jacket with Plate Buttons, Stand Collar, Lightweight Winter Clothing, Loose Short Style, White Duck Down Warm Coat",
+        "answer": "Winter, Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Spring Stylish and Elegant Tea Break French Bubble Sleeve White Dress Long Waist Cinch Fairy Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'scene' entities",
+        "content": "2023 Spring New Fashion Small Square Bag Luxury Pleated Cloud Bag for Commuting and Travel Handbag Shoulder Bag Women",
+        "answer": "Travel, Commuting"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2022 New Style Sweet Desire Dress Bubble Sleeve Polo Collar Dress Tea Break French Waist Slimming Dress Women Trendy",
+        "answer": "Sweet Desire, French"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Women's Canvas Bag 2021 New Style Dumpling Bag Checkerboard Pattern INS Korean Version Single Shoulder Wrinkle Crossbody Bag",
+        "answer": "Korean Version, INS"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Gentle Style Irregular Knit Cardigan Women Autumn/Winter 2022 New Design Sense Minority Loose Long Sleeve Knit Top",
+        "answer": "Gentle Style, Design Sense"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Thick-soled Women's Summer Sandals 2022 New Style Single Buckle Flat Sandals Women's Student Korean Style Platform Roman Wedge Sandals",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "High-end Light Luxury Print Dress Women 2023 Spring Summer New Short Sleeve Waist Slimming Midi Dress Elegant Bodycon Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Summer New Short-Sleeve T-Shirt Women Loose Korean Style Student Salty Series Polo Shirt Collegiate Pure Color Top Trendy",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "2022 Winter New Arrival, High-End Feeling, Elegant and Loose, Little Chanel Style Lamb Fleece Thickened Coat for Women, Aristocratic Jacket",
+        "answer": "Lamb Fleece"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Sweet Floral Buttoned Dress Women Summer 2023 New Slimming Waist Long Design Vest Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "French heavy work floral square neck ruffle dress women summer 150 petite stature waist-narrowing slimming A-line midi length",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Summer Short-Sleeve T-Shirt Women's Summer Clothing 2023 New Ins Trendy Spring Wear High-Waisted Top Short Design Sense Niche",
+        "answer": "Design Sense, Ins"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "High-Waisted Jeans Women's Autumn/Winter 2023 New Style Loose Straight Wide-Leg Pants Design Sense Retro Hong Kong Style Pants",
+        "answer": "Hong Kong Style Pants, Jeans, Wide-Leg Pants"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Mary Jane Women's Shoes 2023 Spring/Autumn New Stylish Shoes Low-Cut Single Shoes Elegant Sandals French Loafers Small Leather Shoes",
+        "answer": "Shoes, Single Shoes, Sandals, Shoes, Small Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "MY Gentle Temperament Off-Shoulder Sweater 2022 Autumn/Winter New Single-Shoulder Design Sense Niche Loose Lazy Top Trendy",
+        "answer": "Design Sense, Lazy, Gentle, Temperament"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Round Neck T-Shirt Women Summer 2022 New Short Hot Girl Open Back Versatile Slimming Elastic Long Sleeve Crop Top",
+        "answer": "Crop Top, T-Shirt"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Thick-soled Slippers Women 2023 New Summer Niche Platform Shoes with Skirt Outdoor Design Sense French Sandals",
+        "answer": "French, Design Sense"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Small size women's shoes 313233 small size 2023 summer new style fashionable hollow-out peep-toe chunky heel sandals",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "High Heel Women's Shoes 2023 Spring/Autumn New arrivals Versatile Pointed Toe Mid Heel Chunky Heel Single Shoes Stiletto Hollow Sandals Bridesmaid Wedding Shoes",
+        "answer": "Sandals, Shoes, Single Shoes, Wedding Shoes"
+    },
+    {
+        "question": "Please identify all 'target user/group' entities",
+        "content": "2022 New Autumn/Winter Mom's Wear Versatile Mom's Autumn Wear Medium-Length Wool Coat Middle-Aged Women's Autumn/Winter",
+        "answer": "Mom"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "2023 New Corduroy Floral Sweet Hip-Hiding Long Dress for Women Autumn/Winter Slimming High-Waisted Fairy Rose Print Dress",
+        "answer": "Corduroy"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Straight Leg Jeans Women High Waist Slimming 2023 New Spring Autumn Nine-Point Pear Shaped Figure Petite Cigarette Baguette Pants",
+        "answer": "Slimming"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Designer Brand 2022AW Mohair Contrast Color Long Sleeve Polo Sweater Sweet Doll Collar Casual Women's Autumn/Winter",
+        "answer": "Sweet, Casual"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 New Women's Sleepwear Spring and Autumn Ice Silk Sexy Thin Lace Backless Silk Home Clothing Two-Piece Set",
+        "answer": "Spring, Autumn"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 New Men's Tactical Belt Quick Release Nylon Outdoor Casual Trendy Canvas Work Pants Belt",
+        "answer": "Casual"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Winter Cotton Shoes 2022 New Style Plush Thick Sole Anti-Slip Warm Fur Integrated Bow Snow Boots Casual Cotton Shoes",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "JORVMTCHA Workwear Jacket Women Spring Autumn Korean Version Loose BF2023 Early Autumn New Trendy Versatile Forest Style",
+        "answer": "JORVMTCHA"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "[100% Cotton] Women's Summer All-Cotton Short-Sleeve Nightgown New Thin Pure Desire Style Home Wear Simple Ladies",
+        "answer": "100% Cotton, All-Cotton"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "Summer Plus Size Fat mm Slimming Fitted POLO Collar Dress Women French Hepburn Hide Belly Waist Cinch Long Dress",
+        "answer": "Fat mm"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Korean style ins white small floral suitable for iPhone 14 Pro Max, Apple 13 phone case, new style 12/11/14 female",
+        "answer": "female"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "French Chunky Heel Platform Peep Toe High Heels 2023 Summer New Genuine Leather Women's Sandals Elegant Square Toe Women's Shoes",
+        "answer": "Sandals, Shoes, High Heels"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Spicy Girl Pure Desire Style POLO Shirt Embroidered Letter Short Sleeve T-Shirt Women Summer New Slimming Belly-Baring Top INS Trendy",
+        "answer": "T-Shirt, Belly-Baring Top, POLO Shirt"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Baotou Half Slippers Women's Outdoor Wear 2022 New Spring Summer Thin Mesh Half Slippers Women's Flat Anti-Slip Fisherman Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "New Style Bamboo Knot Pure Silver INS Women's Bracelet 999 Pure Silver Bracelet Couple Gift for Girlfriend Bestie Couple Birthday Gift",
+        "answer": "Bracelet, Bracelet"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "LAV Korean-style Black and Gold Chain Tote Bag Large Capacity Travel Bag Fashion Commuter Women's Bag Shoulder Bag ·",
+        "answer": "Gold, Black"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "White Women's Oversized Large Size Summer Versatile Cotton Top INS Trendy American Loose Couple Short Sleeve",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all the 'category' entities",
+        "content": "[Yrainy] Millennium Silver Jewelry S925 Pure Silver Star Necklace Women's Boutique 2023 Ins Style Snake Bone",
+        "answer": "Necklace"
+    },
+    {
+        "question": "Please identify all instances of 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2024 Summer New Women's Dress, French Design Sense, Niche Gentle Style, Long Length, Elegant Waist-Cinching Slimming Dress",
+        "answer": "Waist-Cinching, Long Length"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Summer Women's Outfit 2023 New Style Hot Girl Wind Sleeveless Print Vest High-Waisted Slimming Pleated Skirt Two-Piece Set",
+        "answer": "Skirt, Vest"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Gege Amasi 2023 Summer New Mona Lisa Elegant High-Waisted Chiffon Skirt A-Line Half Skirt 5200383",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Black slightly flared jeans for women, autumn and spring high-waisted slimming, 2023 summer new elastic slim fit flared pants",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2022 Autumn/Winter New Cashmere Short-Sleeve Women's Half-Turtleneck Mid-Length Lace Trimmed Pocket Belted Wool Loose Base Layer",
+        "answer": "Winter, Autumn"
+    },
+    {
+        "question": "Please find all 'gender' entities",
+        "content": "kumikumi Rainbow Stripe Vest Dress Women Spring Summer Sweet and Spicy Style Dress Slimming Pencil Skirt Short Skirt",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Black Women's Hooded Jacket 2023 New Spring Design Petite Casual Fashion Short Baseball Jacket",
+        "answer": "Black"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "925 Sterling Silver Korean Style Simple Fashion INS Internet Celebrity Cool Style Necklace Personalized Lucky Wealth Attracting Abacus Sweater Chain for Women",
+        "answer": "Lucky, Wealth Attracting"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Round Toe Versatile Retro British Style Small Leather Shoes Women Spring Autumn 2023 New Thick Sole French Chunky Heel Mary Jane Flats",
+        "answer": "Flats, Small Leather Shoes"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "High-waisted Jeans Women 2022 Autumn Collection Tight Elastic Skinny Pencil Pants Slimming Versatile Nine-Tenths Women's Pants",
+        "answer": "Autumn"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "Petite Light-Colored Straight Leg Jeans Women 2023 New High-Waisted Slim Flared Nine-Inch Elastic cigarette pants 2029",
+        "answer": "Petite"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French Tea Break Square Neck Floral Dress Women 2023 Summer New Gentle Temperament Slimming Waist A-Line Long Dress",
+        "answer": "Gentle, French, Temperament"
+    },
+    {
+        "question": "Please identify all 'IP' entities",
+        "content": "2022 Autumn/Winter Trend Kong Xueer Same Style Hat Korean Version Fashion Pearl Beret High-End Casual Style Painter Hat",
+        "answer": "Kong Xueer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2024 Summer and Autumn Breathable Casual Skate Shoes Ice Silk Fabric Heightening Thick Sole Men's Shoes Trendy Fashion Sneakers 502",
+        "answer": "Casual"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Chunky Heel Women's Shoes 2023 New Spring Autumn Square Toe High Heel Professional Work Shoes Mid Heel Retro Soft Leather Grandma Shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Women's Crossbody Phone Bag Small Bag 2023 Spring/Summer New Fashion Versatile Soft Leather Korean Style Fresh Single Shoulder Square Bag",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "s925 Silver Needle Hollow Metal Flower Earrings 2021 New Trendy ins Retro Hong Kong Style Internet Celebrity Earrings Female",
+        "answer": "Female"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Qi Dai Heavyweight Silk Mulberry Silk Wide Leg Pants Women 2023 Summer New High Waist Slimming Draping Casual Nine-Tenths Pants",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2022 Autumn/Winter New Style Brown High Heels Suede Leather Square Toe Chunky Heel Ankle Boots for Women Slimming Effect",
+        "answer": "Winter, Autumn"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Early Autumn Women's Top 2023 Long Sleeve Inner Wear Slightly Sexy Strappy Hot Girl Sweater Short Top Knitted Base Shirt Women",
+        "answer": "Base Shirt, Sweater, Short Top"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "LEE COOPER Ripped Jeans Women's Wide Leg Summer New High Waist Loose Straight Leg Slimming Draping Floor-Length Pants",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Solid Color Women's Bag 2021 New Style Korean Fashion Solid Color Chain Handbag Small Square Bag Simple PU Single Shoulder Crossbody Bag",
+        "answer": "Solid Color"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Gentle style floral sundress Summer 2023 new style waist-narrowing slimming midi length design fairy dress",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "AHHH Black American Classic Minimalist Hoodie National Trend Design Half-Open Chain Loose Couple Leisure Jacket",
+        "answer": "Hoodie"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Square Toe High Heel Women 2023 New Summer Style Elegant Lady Crystal Square Buckle Single Buckle Thick Heel Toe Cap Sandals",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Ice Silk Narrow-Waisted Wide Leg Pants Women 2023 Summer New High-Waist Draping Knit Casual Straight Leg Floor-Length Pants - 3386",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "GRAPE Wardrobe Series Bow Decor Sweatshirt Rope Bow Tie Canvas Derby Women's Shoes Autumn/Winter Style",
+        "answer": "Winter, Autumn"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "2023 New Spring and Autumn Denim Skirt Square Neck Doll Dress Blue Dress Korean Style French Girl Loose Skirt Women",
+        "answer": "Blue"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "French Romantic Dress Women Summer 2023 New Style Flutter Sleeve Floral Waist Slimming Mid-Length Tea Dress",
+        "answer": "Dress, Dress"
+    },
+    {
+        "question": "Please identify all 'color' entities.",
+        "content": "Knitted sweater for women in gray, a slim-fit hoodie pullover for 2023 autumn.",
+        "answer": "gray"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Trendy Men's Spring and Autumn Foreign Trade Polo Shirt Round Neck Regular Shoulder High-End Korean Style Middle-Aged Dad Long Sleeve T-Shirt",
+        "answer": "Long Sleeve, Round Neck, Regular Shoulder"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Plus-size Women's Black Denim Pants for Chubby Sisters with Thick Legs, 200 lbs, Spring and Summer Street Style, Versatile Loose Wide Leg Long Pants 3",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 New Style Striped Polo Neck Dress Women Summer Slim Fit Short Skirt Little Chanel Style Waist-Cinching Casual Dress Trendy",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "American retro navy blue short-sleeve t-shirt women summer trendy brand oversized design niche sense niche pure cotton high street top",
+        "answer": "summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 Summer New Sweetheart Teacup Rabbit High-Waisted Short Top Women Summer Slim Sweet and Spicy Belly Button Bikini Strap",
+        "answer": "Sweet and Spicy"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "White Chiffon Short Sleeve Blouse Women's Summer Clothing 2023 New Ladies Shirt Thin Top Design Sense Niche",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "AD Spring Fashion OL Style Long Sleeve Ruffle Apricot Blouse Noble Retro Commuting Business Women's Shirt",
+        "answer": "Spring"
+    },
+    {
+        "question": "Please identify all 'target users/group' entities",
+        "content": "2021 New Autumn/Winter Plus Size Women's Woolen Coat, Mid-Length, Suitable for Women up to 200 lbs, Slimming Knee-Length Thick Wool Coat",
+        "answer": "Women up to 200 lbs"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Star Korean Style Elegant Vest Dress Women Summer New Loose Lazy Style Simple Slimming Blue Sleeveless Dress",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Pure Silver Necklace Women 999 Fine Silver Elegant Bestie Necklace Ins Non-Fading Collarbone Chain M Clasp 2023 New Style",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Harem Pants Women 2023 New Spring and Summer High-Waisted Slimming Loose Straight Casual Sports Black Skinny carrot Pants",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Plus Size Fat mm Black V-neck Dress Women Summer 2023 New Fashion Off-shoulder Waist Slimming Dress 200 lbs",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Spring and Summer Frayed Retro Flared Jeans for Women Elastic Chic High-Waisted Slimming Hot Girl Design Sense Niche Flared Pants",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "British Style Single Shoes Retro Thick-Soled Leather Shoes Korean Fashion Loafers 2023 Spring/ Winter New Black Women's Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Long Dress 2020 New Style Student Cute Internet Celebrity Long Sleeve Lolita Angel Print OP Lolita Dress Fairy",
+        "answer": "Dress, Dress"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "New style contrast color polo neck bubble sleeve short sleeve T-shirt women's summer new style fat mm Korean version loose cover meat top",
+        "answer": "T-shirt"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Korean Style Chic Commuter Retro Heavy Work Niche Design High-Waisted Slimming Loose Straight Blue Jeans Women Summer",
+        "answer": "Blue"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "404MOB Big Cheese American Retro Crew Neck Sweatshirt Men Trendy Spring Autumn Hoodie Couple Pullover Jacket Women Cute",
+        "answer": "Men, Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Two-Piece Dress Women Winter 2022 New Style Advanced Sense Temperament Petite Knitted Vest Long Sleeve Dress Set",
+        "answer": "Winter"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Thick-soled Triumph Arch Loafers 2022 Autumn/Winter New Arrival Versatile Genuine Leather Gold Buckle Single Shoes British Retro Leather Shoes Women",
+        "answer": "Thick-soled"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Thick-soled Skinny Martin Boots Women's Boots 2022 New Summer White Mid-Calf Soft Leather Ankle Boots Spring and Autumn Single Boots",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "American Vintage Low-Waisted Slimming Hot Girl Denim Shorts Women Summer 2023 Pure Desire Style Padded Hip Hot Pants Trendy",
+        "answer": "Hot Pants, Shorts"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Polyamide Spandex Short Sleeve T-Shirt Men's Summer Business Casual Top Ice Silk Thin Striped Print Elastic Polo Shirt Men",
+        "answer": "T-Shirt, Casual Top, Polo Shirt"
+    },
+    {
+        "question": "Please identify all 'Model/Series' entities",
+        "content": "White Rose 2023 Summer Cheongsam Elegant Temperament Niche Evening Dress Lace Embroidered National Style Cheongsam Dress Women",
+        "answer": "White Rose"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "95% Cotton Spring New Stylish V-neck Design Sense Drawstring Tie Waist Slimming Long Sleeve Fashion Top T-shirt Women",
+        "answer": "Slimming, Long Sleeve, Drawstring, V-neck, Tie Waist"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Academic Style Tea Break French Dress Women 2023 Spring New Style Fake Two-Piece Long Dress Stunning Little Dress Elegant",
+        "answer": "Dress, Little Dress, Long Dress"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "Plush Thick Long Sleeve Dress Women 2021 New Style Mom Middle-Aged and Elderly Hide Fat Slimming Loose Mid-Length Dress",
+        "answer": "Mom"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Korean Style Casual Commuting Large Capacity Bag for Women Students Class Underarm Saddle Bag 2023 Spring Summer Fashion Shoulder Bag",
+        "answer": "Korean Style, Casual"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Short-Sleeve T-Shirt 2023 Short Length Flocking Print Rabbit Year Short-Sleeve T-Shirt Versatile Round Neck Top Simple Casual",
+        "answer": "T-Shirt, Round Neck Top"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Autumn New Sweet and Spicy Style Square Neck Long Sleeve Knit Sweater Short Length Outerwear with Visible Seam Design Women's Top",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Spring New Japanese Style Academy Deep Blue Denim Jacket Women Spring Autumn Korean Version Loose Short Jacket Trend",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": " Miyake Pleats 2023 Summer New Style Print Slim Fringe Dress Women Korean Style Slimming Dress",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Sweet and Spicy Niche Pure Desire Style Short Sleeve T-Shirt Knitted Top 2022 Summer Covering Fat and Slimming Hot Girl Base Top",
+        "answer": "Pure Desire Style, Hot Girl, Sweet and Spicy"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Retro Zipper Wide-Leg Jeans Women 2023 Spring and Autumn New High-Waisted Slimming Loose Draping Straight Tube Floor-Length Pants",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 New White Regular Shoulder Short Sleeve T-Shirt Women Summer Loose Lazy Style BF Unique Casual Versatile Top Trendy",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 New Style Pleated Skirt Women White Mini Skirt Japanese Style Slimming Autumn Winter New Jk Plaid Large Size A-Line Skirt",
+        "answer": "Mini Skirt, Pleated Skirt, A-Line Skirt"
+    },
+    {
+        "question": "Please identify all 'target user/group' entities",
+        "content": "Plus Size Slimming Dress for Busty Girls 200 lbs Fat MM Elegant Waist-Cinching Split French Fairy Dress Black A-Line Dress",
+        "answer": "Busty Girls, Fat MM, 200 lbs"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Spring New Style Tea Break Dress Floral Bustier Dress Women's Inner Wear Waist-Tie Slit Strap Black Long Dress",
+        "answer": "Waist-Tie, Slit, Strap, Bustier, Inner Wear"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer New French Retro Floral Slimming Concealed Fat Elegant Pleated Skirt Mulberry Silk Mid-Length Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all the 'style' entities",
+        "content": "High-quality cotton 2023 new style men's V-neck short sleeve t-shirt Korean version casual top",
+        "answer": "V-neck, short sleeve"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Hepburn Style Long Sleeve Women's Dress 2023 Spring Autumn Retro Square Neck Slimming Puff Sleeve Tea Break Runaway Princess Dress",
+        "answer": "Hepburn Style, Retro"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Korean style small fresh V-neck short vest 2023 summer new student thin sleeveless green vest top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Petite Chiffon Dress Women Summer 2023 New Style Waist Slimming Stylish Youthful French Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "s925 Pure Silver Minimalist Design Cold Style Bow Knot Ring Female Teardrop Open Ring 2023",
+        "answer": "Female"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Early Spring Women's 2023 New Style French Tea Dress with a sense of newness, long dress for autumn and winter",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2022 Autumn/Winter Women's Fashion Fresh and Sweet Knitted Cardigan High-Waisted Slimming Denim Skirt Two-Piece Set",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Petite Straight Leg Denim Shorts for Women Summer Thin Hong Kong Style Student Loose 2023 New Wide Leg Five-Piece Pants",
+        "answer": "Five-Piece Pants, Shorts"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "XIAOLI Butterfly Wing Chiffon One-Shoulder Puffed Sleeve Floral Strap Dress 2022 New Spring and Summer Long Dress",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Dress - Gentle Style 2023 Spring Collection, New French Design, Slimming Fit",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Scenario' entities",
+        "content": "Large Capacity Straw Woven Bag Women 2023 New Summer Beach Woven Bag Women's Single Shoulder Commuting Tote Bag Large Bag",
+        "answer": "Commuting"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "American Style White T-Shirt Women Regular Shoulder Short Sleeve European Goods 2022 New Slimming Round Neck Pure Cotton Layered Base Top",
+        "answer": "Round Neck, Regular Shoulder, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Children's Pajamas Boy Summer Pure Cotton Thin Short Sleeve Boys Home Clothes Popular Cartoon 2022 Home Clothes Set",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Silver Needle Simple Hoop Earrings Women Round Hoop Earrings 2022 New Trendy Niche Ear Clips Summer Ear Accessories Circle Stud Earrings",
+        "answer": "Hoop Earrings, Stud Earrings, Ear Clips, Earrings"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Women's Dress 2023 Summer New French Navy Collar Black Floral Bow Design Sense Elegant Dress",
+        "answer": "Elegant, French, Design Sense"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Narrow Straight Leg Jeans Women 2023 New Style Petite Loose Slimming Tall Light Color Wide Leg Floor-Length Jeans",
+        "answer": "Tall, Slimming"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Summer Print Age-Reducing Preppy Style Short-Sleeve T-Shirt for Women + JK Pleated Skirt New Loose Student Two-Piece Set",
+        "answer": "Loose, Pleated, Short-Sleeve"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 Spring Low-Top Luxury Cowhide Fashion Flats Round Toe Chunky Heel Mid Heel Solid Color Comfortable Daily Casual Women's Shoes",
+        "answer": "Spring"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "Floral Chiffon A-line Dress Women 2023 Summer New Slimming Waist Elegant Fresh Fairy Skirt",
+        "answer": "Chiffon"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "New Chinese Style Printed Halter Neck Strap Dress Women Summer 2023 New Style Slimming Gentle Waist-Revealing Long Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 New Style Tea Break French Chiffon Maxi Dress High-End Floral Strapless Dress and Cardigan Two-Piece Set Women Summer",
+        "answer": "Strapless, Tea Break"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Genuine Leather Texture Women's Small Bag Women's 2022 New Style Fashion Handbag Pillow Bag Mini Single Shoulder Crossbody Bag",
+        "answer": "Texture"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Mom Bag 2023 New Trendy Small Bag Women's Bag Simple and Versatile Middle-Aged Shoulder Bag",
+        "answer": "Simple"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Tea Break French White Sleeveless Dress Women Summer 2023 New Small Size Slimming Temperament Vest Long Skirt",
+        "answer": "White"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Plus Size Women's Clothing Fat mm Belly Cover Slimming Top Women 2023 Summer New V-neck Color Block Versatile Short Sleeve T-shirt Women's Clothing",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Summer Plus Size Regular Shoulder Short Sleeve T-Shirt Women 2023 New Fashion Korean Version U-Neck Fat mm Casual Contrast Color Short Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 New Style Sweet and Spicy Contrast Color Short Strap Camisole Summer Hong Kong Style BM Wind Slimming Strap Outerwear",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "French off-shoulder dress for women with design sense, niche summer 2023 new style, slimming and gentle first love tea break skirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Turtleneck Mid-Length Base Layer Sweater Women's Autumn/Winter 2022 New Style Thick Knit Dress Korean Version Loose Outerwear",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Audrey Hepburn Little Black Dress Polo Short Sleeve Dress Women 2023 Summer New Slimming Sweet and Spicy Hip-Hugging T-Shirt Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "V-neck women's t-shirt long sleeve internet celebrity low-neck black slim fit tight top trendy 2023 new style spring and autumn",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Elegant Blouse Summer 2023 New Pink Bubble Sleeve Knit Top Women's Small Elegant Sweet Hollow Out Shoulder T-shirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 New Spring and Summer Korean Style Versatile Student Breathable Sports Shoes Women Casual Dad Shoes Female Internet Celebrity INS Trend",
+        "answer": "Korean Style, INS, Casual"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2022 Summer New Men's Denim Short Sleeve Shirt Casual Trendy Personalized Men's Denim Jacket Half Sleeve Shirt",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Mary Jane Women's Shoes 2023 New Summer Style with Skirt Fairy Shoes Gentle Flats Low Heel Summer Leather Shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2022 Autumn/Winter Women's New Style Fake Two-Piece Set Dress Tea Break French Mature Lady Light Mature Style Knit Mesh",
+        "answer": "Tea Break, Fake Two-Piece"
+    },
+    {
+        "question": "Please find all 'Model/Series' entities",
+        "content": "Plus Size Japanese Grape Soda JK Plaid Skirt Spring and Autumn Student Uniform Set Cute Girl Authentic Campus Style Women",
+        "answer": "Grape Soda"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Summer Grape Home New Style Short Height Platform Wedge Open Toe Sandals Women Casual Versatile Slope Heel Elastic",
+        "answer": "Women"
+    },
+    {
+        "question": "Please find all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "High-end Light Luxury Brand Belly-Covering Dress for Women Summer V-neck Summer 2023 New Style Large Skirt Long Dress Imitation Silk Dress",
+        "answer": "Large Skirt, V-neck"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "V-neck Knitted Cardigan Women Autumn/Winter 2023 New Autumn/Winter Soft and Slim Fit Base Shirt Red Sweater Coat Top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French Style Floral Square Neck Puffed Sleeve Waistcinch Dress Women Summer 2023 New Pure Desire Style Tea Break Resort Style Long Dress",
+        "answer": "Resort Style, Pure Desire Style, French Style"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "2023 New Style Ins Canvas Bag Women's Single Shoulder Bag Cute Cartoon College Student Class Book Bag Artistic Women's Bag",
+        "answer": "College Student"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Women's 2023 New Ice Silk Sun Protection Shirt Summer Thin Multi-functional Sun Protection Clothing UV Protection Shawl",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Summer 2023 New Style Small Floral Print Waist-Cinching Slimming Holiday Style Pure Desire Dress Elegant Strap Dress Women's Clothing",
+        "answer": "Holiday Style, Pure Desire, Elegant"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2023 Spring New American Retro A-Line Denim Skirt Women High Waist Versatile Slim Hot Girl Pencil Skirt",
+        "answer": "American, Retro, Hot Girl"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Thick-soled Loafers Women 2023 Spring New Arrivals Popular Women's Shoes 2022 Spring/Autumn British Style Small Leather Shoes Black Flats",
+        "answer": "2022, 2023"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Cinnamon ROUGUIII Half-Turtleneck Silk Sleeveless Top Women's Design-Sense Niche Simple Elegant Slimming Base Layer",
+        "answer": "Half-Turtleneck, Base Layer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "[Bvxmiu] Petite Women's Platform Piggy-Leg Shoes Trendy 2023 Summer Genuine Leather Platform Sandals Toe-Cover Roman Shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "One-shoulder Strapless Dress Women 2023 Summer Sexy Waist Slimming Hot Girl Elegant Short Skirt NNcl",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "120 pounds of Dayang Gentle and Sweet Dress Women 2023 New Summer Petite Plus Size mm Slimming V-neck Dress",
+        "answer": "Sweet, Gentle"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Duomi Fashion Cowboy Apron Barista Painting Western Restaurant Baking Korean Style Work Apron CheckedOut",
+        "answer": "Korean Style"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 Spring/Summer New Retro Blue Denim Skirt Women High Waist Elastic Pencil Anti-Peep Large Size Hot Girl Skirt",
+        "answer": "Hot Girl Skirt, Skirt"
+    },
+    {
+        "question": "Please identify all 'target users/groups' entities",
+        "content": "Plus Size Fat MM Regular Shoulder Short Sleeve T-Shirt Women 2023 New Summer Pure Desire Irregular Square Neck Slimming Short Top",
+        "answer": "Fat MM"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "French Tea Break Retro Elegant Polka Dot Dress Women 2023 Summer New Design Sense Niche Gentle Style Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Blue Strapless Dress Women 2023 Summer New Style Elegant Sweet Gentle Wind Slimming Waist Ultra Fairy Skirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Design-conscious niche bow short sleeve dress for women summer 2023 new style elegant slimming princess short skirt",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Xiaozi Hoodie Cover Women 2022 New Spring Autumn Short Design Sense Niche Grey Inner Sweet Cool spicy Sister Top",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Ultra Sparkling Full Diamond Four-Leaf Clover Bracelet Women Summer 2023 New Trendy High-End Feel Bracelet Women Light Luxury Temperament Versatile Jewelry",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Bamboo Knot Bracelet Women's Safety Pendant Lotus Open Personality Sophisticated Sense of Light Luxury Versatile Bestie Bracelet 2023 New",
+        "answer": "Pendant, Bracelet, Bracelet"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "French Early Spring Long Sleeve Fairy Sweet Blouse Dress Women 2023 New Arrivals Popular Gentle Series Short Dress",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Genuine Leather British Style Women's Small Leather Shoes 2023 Spring/Autumn New Thick Sole Platform Loafers Soft Leather Casual Versatile Flats",
+        "answer": "British Style, Casual"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "French-style Small Daisy Dress Square Neck Waistcinched Chiffon Floral Skirt Women 2023 Summer Luxury Couture Fairy Dress",
+        "answer": "Dress, Skirt, Floral Skirt"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Khaki Pants New Bestseller 2022 Women's Wide-Leg Suit Pants Autumn/Winter High-Waisted Draping Floor-Length Pants Casual Long Pants",
+        "answer": "Khaki"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "DOZM Earrings Women 2023 High-End Sense Hong Kong Style Wide Version Pearl temperament Earrings High Color Retention Gold Plated Exquisite Earring Hoops",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Academic Style Dress Two-Piece Set Women Summer 2023 New Retro Japanese Style Student Loose Slimming Medium Long Skirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "High Heel French Retro Square Toe Mary Jane Shoes Women 2023 New Design Niche Street Snap Single Shoes Summer",
+        "answer": "Square Toe"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Women's Denim Jacket 2023 New Design Niche Stylish Loose BF Style Spring Autumn Medium Long Unique Top Ins Trend",
+        "answer": "Denim"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Chubby mm New Chinese Zen Style Retro Irregular Cardigan Top Suspender + A-line Half Skirt Women's Spring Three-piece Set",
+        "answer": "Cardigan Top, Half Skirt"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Over-the-knee Compression Slimming High Black Stockings Women Autumn/Winter 2022 New Korean Style Versatile JK Calf Socks Trendy",
+        "answer": "Black"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Bowknot Tassel Necklace Women Summer High-End Design Sense Light Luxury Niche Pendant Collarbone Chain 2023 New Trendy",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2022 Autumn/Winter New Arrival Top Korean Style Slim Fit Inner Wear High Collar Long Sleeve Base Shirt Thin Knit Sweater Women's Fashion",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Cotton Short-Sleeve T-Shirt Women's Summer Clothing 2023 New Summer Women's Loose Half-Sleeve Top Summer T-Shirt Women",
+        "answer": "Summer, Summer, Summer"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Korean Style Casual Commuter Large Capacity Bag Women 2023 Spring Summer New Simple Tote Bag Niche Fashion Shoulder Bag",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Women's Leather Shoes New Autumn/Winter 2023 Thick Sole Elevated Mary Jane Shoes Single Shoes Japanese Style JK Brown Round Toe",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "New Chinese Style Ink Painting Tie-Dye Wide Leg Pants for Women Summer Thin 2023 New High Waist Slim Lazy Casual Floor-Length Pants",
+        "answer": "Floor-Length Pants, Wide Leg Pants"
+    },
+    {
+        "question": "Please identify all 'brand' entities",
+        "content": "Anzhi 2023 Autumn New Collection ins Design Sensual Short Long Sleeve Women's Hoodie Korean Version Layered Crop Top",
+        "answer": "Anzhi"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Heping 100% Cotton American Star Necklace Short Sleeve T-Shirt Women Sweet Cool Style Couple Casual Loose Top",
+        "answer": "American, Sweet Cool Style, Casual"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "French Style Chunky Heel Women's Shoes 2023 Spring/Autumn New Arrival Versatile Low-Cut Mid-Heel Retro Matching Skirts Gentle Evening Style",
+        "answer": "Gentle, Retro, French, Evening Style"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Grey High-Waisted Pleated Skirt Women Spring Autumn Summer 2023 New Style Petite Slimming Short Skirt A-Line JK Half-Body Skirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "Youthful Academic Style Polo Collar Short Sleeve T-Shirt Women + Black Pleated Skirt Summer New Loose Student Two-Piece Set",
+        "answer": "Youthful"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "WMGIRL-Plus Size Square Neck Lace Tea Break Floral Dress Women Spring Summer Fat mm Elegant Temperament Waistcinching",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2020 Spring and Autumn New Style Wide Leg Pants Long Pants High Waist Women's Pants Korean Version Large Size Middle-Aged Mom Pants Swing Pants Dance Pants Large Feet",
+        "answer": "Korean Version"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Spring/Summer New Hong Kong Style Retro Halter Strap Dress Women Korean Version Waist Slimming Elegant Versatile Long Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "HCJ Soft and Squishy Feeling Slippers Women 2023 Spring and Summer New Style Thick Sole Outdoor Wear Cute Bow Flat Slippers",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Strap Sleepwear Women Summer 2023 New Style Internet Celebrity Wind INS Korean Version Loose Summer Dress Homewear",
+        "answer": "Loose, Strap"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Sexy Dress Women 2023 Fashion New Style Belt Irregular Midsummer Petite High Waist Short Sleeve Pencil Skirt",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Spring and Autumn Leather Shoes for Women, British Style 2022 New arrivals, Versatile Student Loafers, Black Lace-Up Thick Sole Shoes",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Spring 2023 New Women's Fashion Tea Break Hong Kong Style French Elegant Denim Shirt Dress Petite Long Skirt",
+        "answer": "Tea Break, Shirt"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Women's Set 2023 Summer New Japanese Style Retro Shirt Irregular Short Sleeve Top High-Waisted Slimming Skirt Trendy",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Dad shoes Women 2023 Spring New Style Breathable Mesh Casual Shoes Fashion Versatile Couple Style Thick Sole Men's Shoes",
+        "answer": "Spring"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Changsheng Women's Clothing # American Retro Sexy Hot Girl Denim Shorts Women 2023 New Slim Fit Pencil Skirt Hot Pants",
+        "answer": "American, Retro, Sexy, Hot Girl"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Gangnam retro genuine leather vest, 2023 spring collection. Sleeveless sheepskin leather vest for women with notched collar",
+        "answer": "spring"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Women's Nightgown 2023 New Modal Halter with Built-in Bra Sleepwear Women Summer Pure Cotton Sexy Lace Homewear",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Workwear Shirt Set Men Summer Khaki Japanese Style City Boy Jacket Men Short Sleeve Ins Trendy Hong Kong Style Loose",
+        "answer": "City Boy, Japanese Style, Hong Kong Style, Ins"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Retro French Mary Jane Flats Women Summer 2023 New Arrival Low-Top with Dress Mid-Heel Gentle Evening Style Shoes",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Pink Sweet Bubble Sleeve Dress Women Summer 2023 New French Design Petite Backless A-Line Skirt",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Petite Heeled Ankle Boots Small Leather Shoes British Style French Retro White Flats Spring 2022 Loafers Women's Shoes",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Yin Zhe Styling DT7741 Summer 230g Pure Cotton Trendy Loose European and American Style Short-Sleeve T-Shirt Men's Undershirt Base Shirt",
+        "answer": "T-Shirt, Base Shirt, Undershirt"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Summer 2023 New Style Student Loose Short Sleeve T-Shirt Casual Straight Wide Leg Pants Two-Piece Set INS Trend",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "American Hot Girl Outfit Black Regular Shoulder Short Sleeve T-Shirt Women Summer 2023 New Design Sense Niche French Top",
+        "answer": "American, Hot Girl, French, Design Sense"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Women's Spring and Autumn Sleepwear Pure Cotton Long Sleeve Striped Pajamas 2023 New Style Long Dress",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "NN Nana High-Waisted Slimming American Hot Girl Ripped Horse-Hoof Pants Dragging Ground Slightly Flared Jeans Women 2023 Spring New Arrival",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "2023 Summer New French Pure Cotton Short-Sleeve T-Shirt Printed Loose Student Versatile Top Korean Style Trendy Men and Women",
+        "answer": "Pure Cotton"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Spring/Summer Low-Top Plain White Shoes 3cm Flat Rubber Soft Sole Full Cowhide Hai Bolili Odor-Resistant Shoes Versatile",
+        "answer": "Low-Top, Flat"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer New Style American Regular Shoulder T-shirt Women's Top Design Sense Niche Loose Black Short Sleeve ins",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Bootcut Jeans Spring/Autumn 2023 New Style Slimming High-Waisted Petite Frayed Bell Horsebit Pants",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Summer New Korean Style Half-Sleeve Shirt Women Chiffon Lantern Sleeve Top Retro Loose Solid Color Blouse Trendy",
+        "answer": "Loose, Half-Sleeve"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "Lace Cheongsam 2023 New Autumn/Winter Young Style Girls' Improved Temperament New Chinese Style Spliced Dress Spring",
+        "answer": "Girls"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Fuzzy Ball Knit Sweater Women 2022 Spring/Autumn New Lazy Style Advanced Design Soft and Gentle Knit Cardigan",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Fashion versatile ice silk thin long sleeve T-shirt women 2023 spring and autumn new inner wear slim elastic base top trendy",
+        "answer": "women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Floral Square Neck Slit Atmosphere Dress Women Spring 2023 New Slimming Waist Short Sleeve Elegant Long Dress",
+        "answer": "Dress, Long Dress"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Dress Skirt Summer 2022 New Style High-End French Petite Short Skirt Floral Korean Version Bubble Sleeve Dress",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Sweet and Cool Mary Jane Leather Shoes Japanese Style Women's JK Thick Sole Large Head Shoes 2023 Summer Thin Version Bow Soft Girl Single Shoes",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'location' entities",
+        "content": "Women's Cookie Shoes Thick Bottom Fleece Magic Tape Korean Little Chanel Style Round Toe 2022 New Autumn/Winter White Shoes",
+        "answer": "Korea"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Cotton White Short-Sleeve T-Shirt Women 2023 New Summer White T Loose Half-Sleeve Top Rabbit Embroidery",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Target User/Group' entities",
+        "content": "ALIN Custom Plus Size 2023 New Spring Fat mm Loose Straight Leg 200 lbs High Waist Slimming Wide Leg Jeans for Women",
+        "answer": "Fat mm, 200 lbs"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "V-neck sweater women loose lazy style top 2022 autumn and winter short inner low collar slimming knitted turtleneck",
+        "answer": "2022"
+    },
+    {
+        "question": "Please identify all 'Category' entities",
+        "content": "Etam 2023 Spring/Summer New Arrival Loose Comfortable Long T-Shirt Women's Letter Print College Style Medium-Length Knit Sweater",
+        "answer": "Long T-Shirt, Knit Sweater"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "Half-body Short Skirt 2022 Slit Denim Women Summer Student A-line Skirt Pants High-waisted Elastic Anti-exposure Skirt ins",
+        "answer": "Denim"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "2022 Autumn New Style Loose Inner Long Sleeve T-Shirt Women's Basic Shirt Korean Version Trendy Internet Celebrity Student Top Women ins",
+        "answer": "Korean Version, ins"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "[With Eye Mask] Premium Gray Kitty Pajamas Pure Cotton Women's New Summer Cute Japanese Style INS Home Wear KT Cat",
+        "answer": "Women"
+    },
+    {
+        "question": "Please find all the 'gender' entities.",
+        "content": "Long-sleeve T-shirt Women's Spring 2023 New Fashion Slim Fit Design Chain Detail",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Floral Long-Sleeve Drawstring Dress Women's Summer 2023 New Style Waist Slimming Age-Reducing Knee-Length Long Dress",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "American Style Short Sleeve Women's Printed Regular Shoulder T-Shirt Summer New Pure Cotton INS Loose Trendy Brand T-Shirt Design Sense Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please find all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "HELLO KOMA White U-neck Solid Color T-shirt Women Summer Short Design Sense Niche Short Sleeve Hot Girl Crop Top",
+        "answer": "U-neck, Crop Top, Short Design"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "100% Cotton Short-Sleeve T-Shirt for Women 2023 New Summer Style Korean Loose Fit INS Trendy White Top",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "LEAG100% Pure Cotton Apricot Color Regular Shoulder Short Sleeve T-Shirt Women Loose Korean Version Oversize Design Sense Niche Top",
+        "answer": "100% Pure Cotton"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Summer white polka dot sundress women 2023 new style high-end French temperament waist-narrowing slim long dress",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 New Style Internet Celebrity Flat Slide Sandals Women Summer Outdoor Student Fashion New Fairy Style Cool Slippers Women Non-slip",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "2023 New Style Cute Cartoon Slippers Women Summer EVA Thick Sole Sandals Home Outdoor Wear Versatile Flat Sandals",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'IP' entities",
+        "content": "2023 New Style fever Same French Retro Pearl Earrings Women 925 Silver Needle Earrings High-End Hong Kong Style Earrings",
+        "answer": "fever"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Floral Cluster Earrings Sweet Spring Summer High-End Style Women's Earrings 2023 New Trendy Butterfly Light Luxury Earrings Silver Needle",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Asymmetric Earrings Pure Silver 2022 New Strawberry Earrings Summer Enamel Retro Flower Studs Cubic Zirconia Clip-on Earrings for Women",
+        "answer": "Clip-on Earrings, Studs, Earrings"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Cute Duck Bag Women 2020 Trendy Korean Version ins Japanese Style Versatile Canvas Crossbody Bag Women Student Shoulder Bucket Bag",
+        "answer": "Korean Version, Japanese Style, ins"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Stripe Short Sleeve Men's Summer Five-Fourth Sleeve T-Shirt Male Batwing Shirt INS Hong Kong Style Loose Trendy Brand Half Sleeve Super Hot CEC",
+        "answer": "Half Sleeve, Five-Fourth Sleeve, Loose, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Short-Sleeve T-Shirt 2023 Spring/Summer New Arrival Slimming Basic Top Inner Wear",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Thin Mesh Young Girl Pure Desire Style Women's Plus Size Underwear for Busty Women 200 lbs Lace Sexy Summer",
+        "answer": "Underwear"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Elegant Pearl Pleated Cloud Underarm Bag Niche Women's Bags New Summer 2021 Versatile Single Shoulder Crossbody Bag",
+        "answer": "2021"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "0528 No-Piercing Elegant High-End Fan-Shaped Pearl Clip-On Earrings Graceful Mosquito Coil Shell Geometric Sparkling Cubic Zirconia Women's Earrings",
+        "answer": "Geometric, Mosquito Coil, Fan-Shaped, No-Piercing"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Summer 2023 New Style Elastic High-Waisted Sports Shorts Women's Wide Leg Pants Loose Thin Style Slimming Casual Pants",
+        "answer": "Elastic, Loose, Thin Style, High-Waisted"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Polo collar girl short sleeve t-shirt women summer 2023 new short style unique hot girl t-shirt top ins trend",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Women's Regular Shoulder Short Sleeve T-Shirt 2023 New Summer Slim Fit Basic Shirt INS Trend White Inner Wear Women's Pure Cotton Top",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Women's Breathable Socks Bow Solid Color Miu Miu Thin Socks Fairy-like Little Chanel Style Socks Trendy Korean Style",
+        "answer": "Fairy-like, Korean Style, Little Chanel Style"
+    },
+    {
+        "question": "Please identify all 'color' entities",
+        "content": "Spring and Summer Milky White Heart Earrings 2021 New Trendy Cool Temperament High-end Earrings for Women",
+        "answer": "Milky White"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Red Crossbody Bread Bag 2022 New Style Small Square Bag Women Fashion Versatile Single Shoulder Armpit Bag Sports Commuting Bag Men",
+        "answer": "Single Shoulder"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "YOUYYOU Women's Hat Spring/Summer INS Letter Baseball Cap Large Head Circumference Makes Face Look Smaller Autumn Versatile Sunshade Duckbill Cap",
+        "answer": "Duckbill Cap, Baseball Cap, Hat"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "2023 Summer Retro Stripe Knit Dress Women POLO Collar Short Sleeve Casual Waist-Cinching Slimming Elegant Long Dress",
+        "answer": "Waist-Cinching, POLO Collar, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "145cm Petite Narrow Wide-Leg Pants for Women Spring/Autumn New Style 150cm Tall Appearance Vertical Sense Casual Straight Suit Pants Size XS",
+        "answer": "Spring, Autumn"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Spring and Summer Women's Large Capacity 2023 New Trendy Ins Nylon Canvas Bag College Student Class Single Shoulder Tote Bag",
+        "answer": "Summer, Spring"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "2023 Summer Men's Casual Vest T-Shirt Trendy Brand Simple Sport Solid Color Series Comfortable Breathable Sleeveless Vest",
+        "answer": "Men's"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Bottoms Missing Shorts Women Spring Summer Outerwear 2023 New Style Tight Hot Sister High Waist Slimming Pencil Skirt Hot Pants Leggings",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Padded Sleepwear Women Summer New 2023 Student Cartoon Cute Girl Thin Ribbed Ice Silk Short Sleeve Set",
+        "answer": "Sleepwear"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Chinese Style Buttoned Short Sleeve Shirt Women Spring 2022 New Short Design Niche Sophisticated Loose Top",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Short-Sleeve T-Shirt Men Summer Thin 2023 New Ins Trendy Loose Hong Kong Style Half-Sleeve Simple Pure Cotton T-Shirt",
+        "answer": "Men"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "French Bubble Sleeve Floral Blouse Women 2023 Summer New Loose Short Babydoll Shirt Short Sleeve V-neck Top",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Cotton Women's Pajamas Ins Style Sweet 2023 New Loose Long Sleeve Spring Autumn Winter Plus Size Home Wear Set",
+        "answer": "Long Sleeve, Loose"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Workwear Shorts Women Summer Thin 2023 New Style Khaki A-Line Casual Loose Wide Leg Sports Five-Piece Pants",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "y2k Star Hair Clip~ Silver Metal Five-Pointed Star Hairpin for Women, Side Clip, Side Bangs Clip, bb Clip, Small Clip, Hair Accessory",
+        "answer": "Hairpin, bb Clip, Side Clip, Small Clip, Bangs Clip, Hair Clip"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Korean Style Slimming Elegant High-Waisted Slit Summer 2023 New Denim Skirt Women's Mid-Length A-Line Pencil Skirt",
+        "answer": "Korean Style, Elegant"
+    },
+    {
+        "question": "Please identify all 'IP' entities",
+        "content": "Liziwei Casual Cool Ice Silk Pants Chiffon Wide Leg Pants Women High Waist Draping Summer Thin Loose Straight",
+        "answer": "Liziwei"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Large U-shaped Seamless Back Bra for Women Ultra-thin Large Bust Minimizer Kanajiro Backless Bra Bra Summer Bestseller",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Inner Height Dad Shoes Women 2023 Summer New Style Glowing Thick Sole White Sneakers Versatile Casual Shoes Korean Style Women's Sports Shoes",
+        "answer": "Casual Shoes, Dad Shoes, Shoes, White Sneakers"
+    },
+    {
+        "question": "Please find all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Double Pocket Shirt Women Summer 2023 New French Retro V-neck Apricot Blouse Short Sleeve Top Commuting Outfit",
+        "answer": "Double Pocket, V-neck"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Petite Autumn Retro Draping Jeans for Women, Niche Straight Leg High-Waisted Loose Slimming Chic Wide Leg Long Pants Trendy",
+        "answer": "Autumn"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Women's Small Bags Summer 2023 New Arrivals Popular Fashion Chain Small Square Bag Premium Texture Crossbody Bag Handheld Bucket Bag",
+        "answer": "Crossbody Bag, Bucket Bag, Small Square Bag, Small Bag"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "Two-Way Wearable Women's Sandals Summer 2023 New Style Water Drop Crystal Rhinestone High Heels",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "170 Long Pants for Tall Women Summer Thin Ice Silk Wide Leg Pants High Waist Draping 175 Extra Long Version Floor-Length Pants",
+        "answer": "Ice Silk"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Cotton Short-Sleeve T-Shirt Women 2023 Summer New Arrival Loose American Retro Lazy Style Half-Sleeve Design Top",
+        "answer": "Half-Sleeve, Loose, Short-Sleeve"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Popular thick-soled white sneakers for women, spring and autumn style, trendy ins casual shoes, 2023 new arrivals",
+        "answer": "spring, autumn"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Pink Hooded Pure Cotton Shirt Thin Jacket Women 2023 Spring Summer New Single Pocket Casual Sun Protection Coat Open Shirt",
+        "answer": "Shirt, Sun Protection Coat, Shirt"
+    },
+    {
+        "question": "Please identify all 'style' entities",
+        "content": "Liubai T5113 American Style T-shirt Men Summer New Trendy Brand Print Short Sleeve Loose Casual Shirt",
+        "answer": "American, Casual"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Tencel Long Velvet Cotton T-Shirt Short Sleeve Women Solid Color T-Shirt Summer Casual Loose Thin Inner White Round Neck Top ins",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'function' entities",
+        "content": "2023 New Style High-End Feel Women's British Retro Petite Chic Short Coat Casual Spring F770",
+        "answer": "Casual"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Buttoned Shirt Men Summer Thin Style INS Trendy Design Sense Short Sleeve Shirt Hong Kong Style Japanese Advanced Sense Jacket CY108",
+        "answer": "Buttoned, Thin Style, Short Sleeve"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Men's Hoodie Spring Autumn Winter 2023 Crew Neck Base Layer Top Men's Fashion Brand Trendy INS Long Sleeve T-Shirt Men",
+        "answer": "Long Sleeve, Crew Neck"
+    },
+    {
+        "question": "Please identify all 'gender' entities",
+        "content": "Compatible with Huawei GT3 Watch Strap Watch 4 Pro Metal GT2 Pro Women's Small Charming Round Circulation Sand Strap",
+        "answer": "Women"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Half Slipper Round Toe Mary Jane Women's Shoes 2023 Spring/Summer New Style Small Chiffon Low Heel Sandals Lightweight Fashion Versatile Flats",
+        "answer": "Sandals, Shoes, Flats"
+    },
+    {
+        "question": "Please identify all 'Style (specific to clothing, shoes, and bags)' entities",
+        "content": "Mentmate 23SS Japanese Style Simple Retro Coconut Tree Embroidery Versatile Crew Neck Short Sleeve Men's Summer Loose T-Shirt",
+        "answer": "Crew Neck, Loose"
+    },
+    {
+        "question": "Please identifying all 'function' entities",
+        "content": "Two Tailors New Design Niche Asymmetric Collar Short Top Women Sexy Slimming Long Sleeve T-Shirt ins Trend",
+        "answer": "Slimming"
+    },
+    {
+        "question": "Please identify all 'Material/Composition' entities",
+        "content": "New Ice Silk Women's Pants Spring/Summer 2023 Thin Chiffon Wide Leg Pants Loose Straight Casual Floor-Length Pants",
+        "answer": "Chiffon, Ice Silk"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "Retro Fringe Hollow Knit Sweater Women Summer 2023 New Ethnic Style Design Contrast Color Short Length Short Sleeve Top",
+        "answer": "Short Sleeve Top, Knit Sweater"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "2023 Summer New American Retro Regular Shoulder Short Sleeve T-Shirt Women Slim Fit Short Stylish Waist Cinch Top",
+        "answer": "T-Shirt, Waist Cinch Top"
+    },
+    {
+        "question": "Please identify all 'Style (exclusive for clothing, shoes, and bags)' entities",
+        "content": "Mini Vegetable Basket Ripped Denim Bag 2023 New Style Korean Version Dongdaemun Fashion Texture Bucket Handbag",
+        "answer": "Ripped, Mini, Bucket"
+    },
+    {
+        "question": "Please identify all 'time' entities",
+        "content": "2023 Summer New Ice Silk Chiffon Blouse Women's Doll Collar Shirt Artistic Shirt Loose Large Size Short Sleeve Top Women",
+        "answer": "2023"
+    },
+    {
+        "question": "Please identify all 'Material/Ingredient' entities",
+        "content": "100% Cotton Regular Shoulder Short Sleeve T-Shirt Women Summer 2023 New Loose T-Shirt Design Sense Niche Green Top Trendy ins",
+        "answer": "100% Cotton"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Women's Sandals 2023 Summer New Ice Silk Pearl Bow Student Low Heel Roman Shoes Flat Pregnant Women Sandals",
+        "answer": "Summer"
+    },
+    {
+        "question": "Please identify all 'scene' entities",
+        "content": "Suki 【Simple Commuting】Korean Style Short Sleeve Polo Collar Rose Red Shirt Women Summer Versatile Solid Color Top",
+        "answer": "Commuting"
+    },
+    {
+        "question": "Find all 'categories' entities in it",
+        "content": "Pure cotton short-sleeve T-shirt for women, INS trend, 2023 summer, loose half-sleeve, American-style rabbit print, niche design top",
+        "answer": "T-shirt"
+    },
+    {
+        "question": "Please find all 'time' entities in it",
+        "content": "68 dad shoes women 2023 summer new thick-soled thin style Agan shoes mesh breathable casual sports running shoes",
+        "answer": "2023"
+    },
+    {
+        "question": "Please find all 'season' entities in it",
+        "content": "nnmiss 23 new summer women's square-toe retro carved thick-heel minimalist versatile niche pointed-back open-toe sandals",
+        "answer": "summer"
+    },
+    {
+        "question": "Please find all the 'category' entities within it",
+        "content": "Versatile spring/summer single shoes, women's flat shoes, elegant evening shoes, Mary Jane style flat shoes, and 2023 new grandma shoes",
+        "answer": "single shoes, evening shoes, grandma shoes, shoes, flat shoes"
+    },
+    {
+        "question": "Please find all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "Mu Wei women's underwear for small busts, summer wireless, 2022 new Japanese lace bra set",
+        "answer": "wireless"
+    },
+    {
+        "question": "Please identify all 'model/series' entities",
+        "content": "2023 new shallow pointed-toe stiletto high heels for women, fairy style, side hollow, studded single shoes, women's shoes 966-A8",
+        "answer": "966-A8"
+    },
+    {
+        "question": "Please identify all 'season' entities",
+        "content": "Women's suit dress 2023 spring and summer new fashionable professional design with waist cinched double-breasted slim sweet dress",
+        "answer": "summer, spring"
+    },
+    {
+        "question": "Find all 'season' entities in it",
+        "content": "Solid color long-sleeve T-shirt base shirt women autumn and winter 2022 new loose versatile pure cotton inner shirt T-shirt top ins trendy",
+        "answer": "winter, autumn"
+    },
+    {
+        "question": "Please find all 'time' entities in it",
+        "content": "Naifufu niche design green sweater women autumn and winter 2023 new loose lazy style cardigan coat for petite",
+        "answer": "2023"
+    },
+    {
+        "question": "Please find all 'style' entities",
+        "content": "American pink cargo pants for women, summer 2023 new high-waisted loose jogger straight casual slim wide-leg pants",
+        "answer": "American, casual"
+    },
+    {
+        "question": "Find all 'styles (specific to clothing, shoes, and bags)' entities",
+        "content": "Petite black blazer skirt women's summer 2023 new high-waisted slim-fit midi A-line skirt",
+        "answer": "midi, blazer, high-waisted, A-line"
+    },
+    {
+        "question": "Find all the 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "2023 American-style summer loose oversized heavyweight straight-shoulder short-sleeve t-shirt for women, high-street pure cotton half-sleeve top for women",
+        "answer": "loose, straight-shoulder, short-sleeve"
+    },
+    {
+        "question": "Please identify all 'category' entities",
+        "content": "elsa hot-selling European and American lace off-shoulder tie-up tops for women, sexy black cropped slim-fit long-sleeve T-shirts",
+        "answer": "T-shirts, tie-up tops"
+    },
+    {
+        "question": "Find all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "Women's closed-toe sandals, summer 2023 new chunky heel Mary Jane, small fragrance JK style, paired with skirts, retro open-back single shoes",
+        "answer": "chunky heel, open-back, closed-toe"
+    },
+    {
+        "question": "Find all 'style' entities",
+        "content": "【Yrainy】Black chain safety pin, pink butterfly paperclip necklace for women, sweet cool punk sweater pendant",
+        "answer": "sweet cool, punk"
+    },
+    {
+        "question": "Please identify all 'category' entities in it",
+        "content": "Sweet and spicy ruffled square-neck dress for women, spring 2023 new, slim waist, blue bodycon short dress, skirt, summer",
+        "answer": "dress, short dress, skirt"
+    },
+    {
+        "question": "Please identify all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "Denim skirt for women, spring, autumn, summer 2023 new A-line, height-enhancing, slim-fit, casual, straight wrap skirt",
+        "answer": "straight, A-line, slim-fit, wrap"
+    },
+    {
+        "question": "Please identify all 'style (specific for clothing, shoes, and bags)' entities",
+        "content": "2023 summer mid-length slit short-sleeve T-shirt for women, loose fit, slim, large size, with a unique and designer feel, suitable as an undershirt",
+        "answer": "loose fit, mid-length, slit, short-sleeve"
+    },
+    {
+        "question": "Please find all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "High-end sense sexy ruched slit spaghetti strap dress + long-sleeved sweater women's spring 2023 new fashion suit",
+        "answer": "long-sleeved, spaghetti strap, ruched, slit"
+    },
+    {
+        "question": "Please find all the 'brand' entities in it",
+        "content": "Applicable for Huawei GT3pro watchband GT2 silicone watch4 strap Xiaoman waist girls Honor magic watch chain",
+        "answer": "magic, Honor, Huawei"
+    },
+    {
+        "question": "Find all 'style (specific to clothing, shoes, and bags)' entities",
+        "content": "ins super popular heart print short-sleeve black pure cotton T-shirt for women in summer, loose chic Hong Kong style half-sleeve straight-shoulder top",
+        "answer": "half-sleeve, loose, straight-shoulder, short-sleeve"
+    }
+]

@@ -62,7 +62,8 @@ opencompass examples/eval_sns_bench.py
 
 
 
-
+# Acknowledge
+感谢Opencompass优秀的评测框架
 
 
 

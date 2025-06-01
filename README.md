@@ -1,4 +1,31 @@
-# SNS-Bench
+# SNS-Bench: Defining, Building, and Assessing Capabilities of Large Language Models in Social Networking Services
+
+<img src="./assets/overview.png" alt="overview.png" style="zoom:80%;" />
+
+<p align="center">
+        🤗 <a href="">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/SNS-Bench/sns_bench">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://openreview.net/pdf?id=sVNNlzjZVN">Paper</a> &nbsp&nbsp | &nbsp&nbsp 🛠️ <a href="https://github.com/HC-Guo/SNS-Bench">Code</a> &nbsp&nbsp 
+<br>
+
+## Quick Start
+
+#### 快速安装
+
+评测代码安装依赖可见[Opencompass REAME](./opencompass/README.md)文档。
+
+#### 评测代码
+
+SNS-Bench数据集加载和评测代码位于 `opencompass/opencompass/datasets/sns_bench`目录下，配置文件位于 `opencompass/opencompass/configs/datasets/sns_bench` 。
+
+#### 评测启动
+
+执行下面命令即可
+
+```python
+cd SNS-Bench/opencompass
+opencompass examples/eval_sns_bench.py
+```
+
+
 
 ## Metrics
 
